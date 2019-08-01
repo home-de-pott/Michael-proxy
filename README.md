@@ -4,9 +4,7 @@ _A partial clone of the Home Depot website, built with microservice architecture
 
 <img src="readme/assets/Screenshot 2019-07-20 10.21.55.png">
 <img src="https://media.giphy.com/media/j5EX0HUj8UtHBRR3sb/giphy.gif">
-!(https://media.giphy.com/media/MdRGbMETJybOQKI17G/giphy.gif)
-
-
+<img src="https://media.giphy.com/media/MdRGbMETJybOQKI17G/giphy.gif">
 
 ## About
 
